@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## ACTUALITE DU MONDE DANS LE DOMAINE DE LA PROGRAMMATION ET DU WEB
 
-You can use the [editor on GitHub](https://github.com/Intrepide45/actualit--programmation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1 - GitHub Copilot est disponible pour tous les développeurs
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+L’assistant de codage proposé par GitHub est désormais disponible pour tous les développeurs qui souhaitent l’utiliser.
+Dévoilé en juin 2021, GitHub Copilot est un outil basé sur l’IA qui permet de suggérer des lignes de code et des fonctions pour faciliter le développement. Il est alimenté par Codex, le nouveau système d’IA proposé par OpenAI. Auparavant disponible uniquement dans Visual Studio, et réservé à une poignée d’utilisateurs, il est désormais accessible à tous les développeurs.
 
-### Markdown
+2 - À quoi sert GitHub Copilot ?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Conçu pour faciliter l’écriture des lignes de code, l’outil permet aux développeurs d’obtenir des suggestions de codage basées sur l’IA et adaptées aux projets en cours. GitHub Copilot est compatible avec de nombreux environnements populaires, comme Neovim, JetBrains, Visual Studio et Visual Studio Code par exemple. La plateforme est également très utile pour apprendre à coder dans un nouveau langage, et permet de tenter de nouvelles choses, avec l’assurance d’avancer grâce aux suggestions de syntaxe et de code.
 
-```markdown
-Syntax highlighted code block
+3 - Gratuit pour les étudiants et les développeurs de projets open source populaires
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Intrepide45/actualit--programmation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Suite à la version preview qui aura duré près d’un an, GitHub déclare que « plus de 1,2 million de développeurs ont utilisé l’outil au cours des 12 derniers mois ». La firme indique également qu’aujourd’hui « près de 40 % du code est écrit par GitHub Copilot dans les fichiers où l’outil est activé ». L’outil est accessible dès aujourd’hui pour l’ensemble des développeurs, et GitHub précise qu’il sera déployé plus tard cette année pour les entreprises.
+Côté tarif, il faut compter 10 $ par mois ou 100 $ par an pour accéder à l’outil. Cependant, les étudiants et les développeurs qui s’occupent de la maintenance de projets open source populaires peuvent obtenir un accès gratuit. Un essai gratuit de 60 jours est disponible pour tester l’ensemble des fonctionnalités de GitHub Copilot.
+Source : GitHub
